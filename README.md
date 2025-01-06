@@ -1,1 +1,1 @@
-# ubuntu_organizer
+# organizer
